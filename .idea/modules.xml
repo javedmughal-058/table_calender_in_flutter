@@ -3,7 +3,6 @@
   <component name="ProjectModuleManager">
     <modules>
       <module fileurl="file://$PROJECT_DIR$/table_calender_in_flutter.iml" filepath="$PROJECT_DIR$/table_calender_in_flutter.iml" />
-      <module fileurl="file://$PROJECT_DIR$/android/table_calender_in_flutter_android.iml" filepath="$PROJECT_DIR$/android/table_calender_in_flutter_android.iml" />
     </modules>
   </component>
 </project>
